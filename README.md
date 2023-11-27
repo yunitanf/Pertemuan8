@@ -9,7 +9,7 @@ Tampilan Menu pada Pendaftaran
 Tampilan Menu pada Penginputan data pendaftaran 
 ![Screenshot (50)](https://github.com/yunitanf/Pertemuan8-/assets/145980718/624d8dd7-6a3b-47c9-a364-4d1f95fa52a5)
 Tampilan Menu Berhasil atau Tidaknya Pendaftaran
-![Screenshot (56)](https://github.com/yunitanf/Pertemuan8-/assets/145980718/2d8fb0a6-2581-4c49-808d-cd5d3a23f6d6)
+![Screenshot (52)](https://github.com/yunitanf/Pertemuan8/assets/145980718/193e6d70-a502-478b-a776-7861a03d91d7)
 Tampilan Menu Data Berhasil Ditambahkan
 ![Screenshot (56)](https://github.com/yunitanf/Pertemuan8-/assets/145980718/cbba7a40-e96a-4a47-8ffc-62813cf1f6bb)
 
